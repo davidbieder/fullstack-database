@@ -5,5 +5,3 @@ metadata:
 spec:
   lookupPolicy:
     local: false
-status:
-  dockerImageRepository: image-registry.openshift-image-registry.svc:5000/david-bieder-postgresql/postgresql
